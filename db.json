@@ -1,0 +1,8 @@
+{
+  "mockLogin": [
+    {
+      "email": "admin@acme.com",
+      "password": "admin"
+    }
+  ]
+}
